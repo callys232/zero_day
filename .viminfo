@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1661977208,,"wq"
+|2,0,1662043093,,"wq"
 :qw
 |2,0,1661439683,,"qw"
 :w
@@ -32,230 +32,254 @@
 |3,1,36,2,1,0,1661446283,""
 
 # File marks:
-'0  1  51  ~/README.md
-|4,48,1,51,1661977208,"~/README.md"
-'1  1  9  ~/alx-zero_day/0x03-git/.gitignore
-|4,49,1,9,1661912799,"~/alx-zero_day/0x03-git/.gitignore"
-'2  3  0  ~/alx-zero_day/0x03-git/up_to_date
-|4,50,3,0,1661912369,"~/alx-zero_day/0x03-git/up_to_date"
-'3  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,51,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
-'4  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,52,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
-'5  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,53,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
-'6  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,54,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
-'7  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,55,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
-'8  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,56,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
-'9  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,57,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
+'0  2  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,48,2,0,1662043093,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'1  2  29  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,49,2,29,1662036211,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'2  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,50,1,10,1662034951,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'3  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,51,1,10,1662034951,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'4  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,52,1,10,1662034951,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'5  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,53,1,10,1662034951,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'6  2  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,54,2,0,1662034778,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'7  2  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,55,2,0,1662034778,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'8  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,56,1,10,1662034234,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'9  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,57,1,10,1662034234,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
 
 # Jumplist (newest first):
--'  1  51  ~/README.md
-|4,39,1,51,1661977208,"~/README.md"
--'  1  9  ~/alx-zero_day/0x03-git/.gitignore
-|4,39,1,9,1661912799,"~/alx-zero_day/0x03-git/.gitignore"
--'  1  9  ~/alx-zero_day/0x03-git/.gitignore
-|4,39,1,9,1661912799,"~/alx-zero_day/0x03-git/.gitignore"
--'  3  0  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,3,0,1661912369,"~/alx-zero_day/0x03-git/up_to_date"
--'  3  0  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,3,0,1661912369,"~/alx-zero_day/0x03-git/up_to_date"
--'  3  0  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,3,0,1661912369,"~/alx-zero_day/0x03-git/up_to_date"
--'  3  0  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,3,0,1661912369,"~/alx-zero_day/0x03-git/up_to_date"
--'  1  8  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,1,8,1661912316,"~/alx-zero_day/0x03-git/up_to_date"
--'  1  8  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,1,8,1661912316,"~/alx-zero_day/0x03-git/up_to_date"
--'  1  8  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,1,8,1661912316,"~/alx-zero_day/0x03-git/up_to_date"
--'  1  8  ~/alx-zero_day/0x03-git/up_to_date
-|4,39,1,8,1661912316,"~/alx-zero_day/0x03-git/up_to_date"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661895758,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895295,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661895287,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  5  16  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,5,16,1661894437,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  11  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,11,1661894364,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1661894346,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,0,1662043093,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  29  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,29,1662036211,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,10,1662035893,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,10,1662035893,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,10,1662034951,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,0,1662034778,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,10,1662034754,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,10,1662034234,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1662033078,"~/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
+-'  2  2  ~/alx-system_engineering-devops/0-current_working_directory
+|4,39,2,2,1662031087,"~/alx-system_engineering-devops/0-current_working_directory"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+	*	1662043090	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	1	11
+	+	2	0
+
+> ~/alx-system_engineering-devops/0-current_working_directory
+	*	1662031081	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	1	10
+	+	1	0
+	+	2	2
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1662010452	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
 
 > ~/README.md
 	*	1661977204	0
